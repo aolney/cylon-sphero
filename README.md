@@ -1,3 +1,12 @@
+The purpose of this fork is to update dependencies rather than add new functionality.
+
+Currently working for:
+
+- Ubuntu 18.04
+- Node 10
+
+-----------------------
+
 # Cylon.js For Sphero
 
 Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
