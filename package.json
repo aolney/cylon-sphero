@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "cylon": "~1.3.0",
-    "sphero": "github:aolney/sphero.js#1.0.0"
+    "sphero": "github:aolney/sphero.js#1.0.1"
   }
 }
